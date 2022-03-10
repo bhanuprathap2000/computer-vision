@@ -1,7 +1,7 @@
 
 import cv2
 import numpy as np
-import mouse.hand_tracking as htm
+import hand_tracking as htm
 import time
 import autopy
  

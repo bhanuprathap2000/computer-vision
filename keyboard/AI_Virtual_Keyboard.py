@@ -1,5 +1,5 @@
 import cv2
-from keyboard.HandTrackingModule import HandDetector
+from HandTrackingModule import HandDetector
 from time import sleep
 import numpy as np
 from Utils import cornerRect
